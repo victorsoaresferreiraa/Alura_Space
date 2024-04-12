@@ -34,6 +34,9 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    #Minhas Aplicações
+    'galeria',
+
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
